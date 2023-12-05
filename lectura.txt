@@ -1,0 +1,4 @@
+juan, 7.500000
+pedro, 6.500000
+jose angel, 6.500000
+miguel lopez, 6.500000
